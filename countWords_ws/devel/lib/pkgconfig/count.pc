@@ -1,8 +1,0 @@
-prefix=/home/ahmed/countWords_ws/devel
-
-Name: count
-Description: Description of count
-Version: 0.0.0
-Cflags: -I/home/ahmed/countWords_ws/devel/include
-Libs: -L${prefix}/lib 
-Requires: roscpp rospy std_msgs
