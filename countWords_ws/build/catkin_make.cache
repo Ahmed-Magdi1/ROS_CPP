@@ -1,0 +1,2 @@
+count
+-DCATKIN_DEVEL_PREFIX=/home/ahmed/countWords_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ahmed/countWords_ws/install -G Unix Makefiles
